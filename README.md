@@ -6,7 +6,7 @@
 
 # Technology
 
-    Frontend: HTML, CSS, JS, ReactJs, Chakra-UI
+    Frontend: HTML, CSS, JS
     
     Deployment: For Frontend -Vercel
                 For Backend - JSON Server deployed on Heroku
@@ -25,7 +25,7 @@
     <li>
      <div>
          <h4>homepage</h4>
-         <img src="https://i.postimg.cc/B69rfPFS/zoomcar.png" alt="zoomcar homepage"/>
+          <img src="https://i.postimg.cc/B69rfPFS/zoomcar.png" alt="zoomcar homepage"/>
      </div>
     </li>
     <li>
