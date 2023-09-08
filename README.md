@@ -1,6 +1,6 @@
 # Zoomcar Clone
 
-<p>Zoomcar allows you to hire a rental or self-drive car of your choice at an affordable rate. Sign up on the website or mobile app, and decide on the rental duration, pickup location, and car type. You can use Zoomcar to pick the car that is suited for your needs. Car rentals make it possible for you to pick a car which suits your purpose, whether it is a small one when you are travelling alone, or a bigger spacious one when you are in a group. I have cloned the Zoomcar website as project of my construct week at** Masai School**. This website is fully responsive and made in ReactJs.</p>
+<p>Zoomcar allows you to hire a rental or self-drive car of your choice at an affordable rate. Sign up on the website or mobile app, and decide on the rental duration, pickup location, and car type. You can use Zoomcar to pick the car that is suited for your needs. Car rentals make it possible for you to pick a car which suits your purpose, whether it is a small one when you are travelling alone, or a bigger spacious one when you are in a group.</p>
 
 ### Live Link - <a href="https://64f473396de09314d454fedd--famous-maamoul-c5c672.netlify.app/">Zoomcar Clone</a>
 
@@ -8,9 +8,7 @@
 
     Frontend: HTML, CSS, JS
     
-    Deployment: For Frontend -Vercel
-                For Backend - JSON Server deployed on Heroku
-
+  
 # Features
 
     -Single Page Application made in ReactJs
